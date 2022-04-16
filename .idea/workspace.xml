@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55987cae-4c6f-42d1-a2d2-0b6374464bf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../bais/application/views/restrukturisasi/dokumenPengajuan.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1gf2AqF7ixQu3muLGcO79AUdg7a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="sshConfigs" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="windows-1252" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55987cae-4c6f-42d1-a2d2-0b6374464bf8" name="Default Changelist" comment="" />
+      <created>1598491185310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598491185310</updated>
+      <workItem from="1598491186659" duration="9076000" />
+      <workItem from="1598587249298" duration="12210000" />
+      <workItem from="1600059992372" duration="8132000" />
+      <workItem from="1600308808172" duration="6007000" />
+      <workItem from="1600669544156" duration="3361000" />
+      <workItem from="1601345611669" duration="1848000" />
+      <workItem from="1601434820192" duration="3204000" />
+      <workItem from="1602467860807" duration="2824000" />
+      <workItem from="1602733163867" duration="1194000" />
+      <workItem from="1603343891675" duration="594000" />
+      <workItem from="1622089387657" duration="1467000" />
+      <workItem from="1622774399189" duration="2464000" />
+      <workItem from="1627895102671" duration="1438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2174" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622774862601">
+      <screen x="1920" y="100" width="1600" height="860" />
+    </state>
+    <state x="2174" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.100.1600.860@1920.100.1600.860" timestamp="1622774862601" />
+    <state x="2554" y="453" key="NewPhpFileDialog" timestamp="1627895116477">
+      <screen x="1920" y="100" width="1600" height="860" />
+    </state>
+    <state x="2554" y="453" key="NewPhpFileDialog/0.0.1920.1040/1920.100.1600.860@1920.100.1600.860" timestamp="1627895116477" />
+    <state x="2221" y="175" key="SettingsEditor" timestamp="1622775062230">
+      <screen x="1920" y="100" width="1600" height="860" />
+    </state>
+    <state x="2221" y="175" key="SettingsEditor/0.0.1920.1040/1920.100.1600.860@1920.100.1600.860" timestamp="1622775062230" />
+  </component>
+</project>
