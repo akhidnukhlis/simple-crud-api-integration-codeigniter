@@ -1,4 +1,4 @@
-# mahasiswa-php
+# simple-crud-restapi-codeigniter
 Simpel restfull api menggunakan bahasa php
 
 ### Background
